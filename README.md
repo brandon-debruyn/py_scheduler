@@ -1,3 +1,3 @@
 py_scheduler
 ----------------------------------------------------------------------
-Note this project is still a WIP. (personal project :) )
+Note this project is still a WIP. 
